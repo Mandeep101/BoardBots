@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Board Bots</string>
+    <string name="title_activity_short_game">ShortGame</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="DefIP">boardbots.zapto.org</string>
+    <string name="DefPort">8081</string>
+    <string name="ShortDesc">The Short Game is, Short. Battling out on a 8x8 Board to get to the exits while picking up as many batteries, the name is Speed, hence there is no Hack cards.</string>
+    <string name="MedDesc">The Medium Game is your standard game, played on a 16x16 board, with the 4 players battling out for control for as many batteries as possible, but be careful, the time does not favour the unlucky.</string>
+    <string name="LongDesc">The Long Game, or the "Big One", Is on a 25x25 board with 8 players battling it out over a longer time limit, with exits only opening after 5 turns and only 4 exits to leave from, this is hacker-mans frenzy and it does not support the unprepared.</string>
+</resources>
